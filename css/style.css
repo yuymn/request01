@@ -1,0 +1,117 @@
+*{
+	font-family:sans-serif;
+}
+
+body{
+	margin:10px;
+}
+
+#bbtop{
+	font-size:30px;
+}
+
+.top{
+	margin-top:20px;
+	font-size:20px;
+}
+
+.topMessage{
+	text-align: center;
+	color:red;
+}
+
+.topMessage2{
+	text-align: center;
+	color:blue;
+}
+
+
+.topcontent{
+	border: 1px solid grey;
+	border-radius:10px;
+	width:100%;
+}
+
+#info{
+	height:250px;
+}
+
+
+.sakura{
+	color:deeppink;
+}
+
+.midasi{
+
+}
+
+.midasi2{
+	margin:10px;
+	width:90%;
+	height:40px;
+	background: linear-gradient(transparent 70%, mistyrose 70%);
+	font-size:25px;
+}
+
+
+.content{
+	padding-top:20px;
+	padding-left:20px;
+}
+
+.content2{
+	padding-left:20px;
+}
+
+.new{
+	color:pink;
+}
+
+.maillink{
+	position: fixed;
+	bottom:-10px;
+	left:0px;
+}
+.maillink a{
+
+	text-decoration: none;
+}
+
+.mailimg{
+	width:50%;
+	height: 50%;
+}
+
+.infocenter{
+	text-align: center;
+	font-size: 16px;
+}
+
+footer{
+	text-align: center;
+	background-color: snow;
+}
+
+.bira{
+	width:50%;
+	height:50%;
+}
+
+.inst{
+	display:none;
+}
+
+.instimg{
+	width:70%;
+	height:70%;
+}
+
+.bbmenu{
+	background: url('../img/menubg_md.png');
+	background-position: 10px;
+}
+
+.icon{
+	width:40px;
+	height:40px;
+}

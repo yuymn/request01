@@ -1,0 +1,97 @@
+@media screen and (min-width: 999px) {
+	.header{
+		background-color: lavenderblush;
+		width:100%;
+		height:60px;
+	}
+	#bbtop{
+		font-size:30px;
+		float:left;
+	}
+	.global-nav__item{
+		display: inline;
+		position:relative;
+		top:32px;
+		bottom:0;
+		left:40px;
+		right:0;
+		padding-left: 30px;
+		font-size:17px;
+	}
+
+	.top{
+		margin-top:50px;
+		font-size:20px;
+	}
+
+
+	.topMessage{
+		text-align: center;
+		color:red;
+	}
+
+	.topMessage2{
+		text-align: center;
+		color:blue;
+	}
+
+	.topcontent{
+		border: 1px solid grey;
+		border-radius:10px;
+		width:100%;
+	}
+
+	#aboutConcert{
+		height: 150px;
+	}
+
+	#info{
+		height:250px;
+	}
+
+
+	.sakura{
+		color:deeppink;
+	}
+
+	.midasi{
+
+	}
+
+	.midasi2{
+		margin:10px;
+		width:90%;
+		height:40px;
+		background: linear-gradient(transparent 70%, mistyrose 70%);
+		font-size:25px;
+	}
+	
+
+	.content{
+		padding:20px;
+	}
+
+	.new{
+		color:pink;
+	}
+
+	.maillink{
+		position: fixed;
+		bottom:-10px;
+		left:0px;
+	}
+	.maillink a{
+
+		text-decoration: none;
+	}
+
+	.mailimg{
+		width:50%;
+		height: 50%;
+	}
+
+	.newInfo{
+		padding-bottom:10px;
+	}
+
+}
